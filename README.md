@@ -4,15 +4,13 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a Ethical hacker and Pentester. specializing in Python and Fast action Pentesting. I'm passionate about Cybersecurity, and I love to create innovative tools and solutions using Visual Studio/Python.
+I'm an Ethical hacker and Pentester specializing in Python and fast-action Pentesting. I'm passionate about Cybersecurity and love creating innovative tools and solutions using Visual Studio/Python.
 
 - 🔭 I’m currently working on WokirX-V2.1
 - 🌱 I’m currently enhancing my skills on Hack The Box
-- 👯 I’m looking to collaborate on SQL Automation tools
+- 👯 I’m looking to collaborate on OSINT Tools
 - 💬 Ask me about Hacking.
-- 📫 How to reach me: Email: [rayyanafridi70@gmail.com](mailto:rayyanafridi70@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 16*
 
 ## 🚀 Languages and Tools:
 
@@ -31,9 +29,9 @@ I'm a Ethical hacker and Pentester. specializing in Python and Fast action Pente
 
 ## 📈 My GitHub Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=kaliafridi&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Ray0x01&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
-- Email: [rayyanafridi70@gmail.com](mailto:rayyanafridi70@gmail.com)
-- LinkedIn: [pentesterxrayyan](https://www.linkedin.com/in/pentesterxrayyan/)
+- Email: [rayyan.official@proton.me](mailto:rayyan.official@proton.me)
+- LinkedIn: [Rayyan Afridi](https://www.linkedin.com/in/pentesterxrayyan/)
