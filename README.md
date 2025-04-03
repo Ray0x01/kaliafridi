@@ -1,6 +1,6 @@
 # Hello, I'm Rayyan Afridi! 👋
 
-![Your Banner Image if you have one](https://github.com/Ray0x01/Picture/blob/main/438100595_7597096127022909_2545304076164165838_n.jpg)
+![Your Banner Image if you have one](https://github.com/Ray0x01/Picture/blob/main/Red%20and%20Black%20Edgy%20Grungy%20Horror%20YouTube%20Thumbnail.jpg)
 
 ## 👨🏻‍💻 About Me
 
