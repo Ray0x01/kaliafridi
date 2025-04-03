@@ -23,7 +23,6 @@ I'm an Ethical hacker and Pentester specializing in Python and fast-action Pente
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite&logoColor=red)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-black?style=flat-square&logo=owasp)
 ![Nmap](https://img.shields.io/badge/-Nmap-black?style=flat-square&logo=nmap)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 
