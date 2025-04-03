@@ -1,6 +1,6 @@
 # Hello, I'm Rayyan Afridi! 👋
 
-![Your Banner Image if you have one](https://github.com/Ray_0x01/Picture/blob/main/438100595_7597096127022909_2545304076164165838_n.jpg)
+![Your Banner Image if you have one](https://github.com/ray_0x01/Picture/blob/main/438100595_7597096127022909_2545304076164165838_n.jpg)
 
 ## 👨🏻‍💻 About Me
 
